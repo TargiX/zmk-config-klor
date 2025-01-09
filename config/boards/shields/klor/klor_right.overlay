@@ -23,5 +23,4 @@
 
 &right_encoder {
 	status = "okay";
-	power-sleep-timeout = <30000>; /* 30 seconds in milliseconds */
 };
